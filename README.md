@@ -1,5 +1,6 @@
-## Getting Started U+IF600
-
+## Getting Started 😀
+> [!TIP]
+> Helpful advice for doing things better or more easily.
 <!--
 **goswise/goswise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
